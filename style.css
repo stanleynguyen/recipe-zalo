@@ -1,0 +1,16 @@
+#main-tab {
+  overflow-y: scroll;
+}
+#main-tab::-webkit-scrollbar {
+  width: 0.5em;
+  height: 0.5em;
+  position: absolute;
+  right: 0;
+}
+#main-tab::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.2);
+}
+#main-tab::-webkit-scrollbar-track {
+  background: none;
+}

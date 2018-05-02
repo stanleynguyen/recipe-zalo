@@ -1,0 +1,17 @@
+{
+  "id": "zalo",
+  "name": "zalo",
+  "version": "1.0.0",
+  "description": "Zalo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleynguyen/recipe-zalo.git"
+  },
+  "author": "Stanley Nguyen <hung.ngn.the@gmail.com>",
+  "license": "Apache-2.0",
+  "config": {
+    "serviceURL": "https://chat.zalo.me/",
+    "hasNotificationSound": true
+  }
+}
