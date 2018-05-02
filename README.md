@@ -1,0 +1,2 @@
+# zalo
+plugin for Franz
