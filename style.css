@@ -14,3 +14,7 @@
 #main-tab::-webkit-scrollbar-track {
   background: none;
 }
+
+.popover.posPinL {
+  position: fixed;
+}
